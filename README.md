@@ -1,2 +1,2 @@
-# ANALYTICS_PROJECT-5
+# DATA-SCIENCE_PROJECT-5
 Marketing Insights for E-Commerce company
